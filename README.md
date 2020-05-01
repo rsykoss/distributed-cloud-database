@@ -95,8 +95,9 @@ connect <address> <port>
 Before client can be connected, client needs to login. There are two tiers: Admins and Users. Default login is as following:
 ```
 Username: admin
-PasswordL password
+Password: password
 ```
 Since this default login is an admin, it is able to create or delete users. 
 
 #### 4. Storage services
+Refer to the above functions to start storing and retrieving data. There are countless usecase that this database can be used for.
